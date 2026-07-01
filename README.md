@@ -1,0 +1,1 @@
+# FTSE-100-Impact-Analysis
