@@ -6,5 +6,12 @@ Key macroeconomic variables including interest rates, inflation, unemployment, e
 
 This project was developed to enhance my skills and knowledge in financial and economics field, as well as the ability to utilise Python in data analysis, while demonstrating a clear data workflow suitable in financial and economical portfolio. 
 
+
 Objectives:
-1. 
+
+1. Discover the relationship between macroeconomic variables and FTSE 100 index performance
+2. Collect and process data collected through available sources
+3. Perform statistical techniques to identify trends and relationships
+4. Build a multiple linear regression model to quantify the impact on stock returns
+5. Interpret the result through graphs and wordings
+
